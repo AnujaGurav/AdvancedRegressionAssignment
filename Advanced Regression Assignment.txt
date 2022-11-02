@@ -1,1 +1,1 @@
-https://github.com/AnujaGurav/LinearRegressionAssignment.git
+https://github.com/AnujaGurav/AdvancedRegressionAssignment.git
